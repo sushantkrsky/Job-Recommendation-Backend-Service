@@ -1,7 +1,3 @@
-Here's a detailed README template for your Job Recommendation Backend Service project, including setup instructions, documentation, and evaluation criteria. You can modify this according to your project specifics.
-
----
-
 # Job Recommendation Backend Service
 
 ## Project Overview
@@ -144,5 +140,3 @@ The recommendation algorithm evaluates job postings based on:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
