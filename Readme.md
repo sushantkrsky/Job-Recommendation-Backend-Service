@@ -34,8 +34,8 @@ This project implements a backend service that recommends job postings to users 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sushantkrsky/job-recommendation-backend.git
-   cd job-recommendation-backend
+   git clone https://github.com/sushantkrsky/Job-Recommendation-Backend-Service.git
+   cd job-recommendation-service
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
